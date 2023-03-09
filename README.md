@@ -7,31 +7,23 @@
   - [Project Description](#Description)
   - [Instillation](#Instillation)
   - [Usage](#Usage)
-  - [Contribution](#Contribution)
   - [License](#License)
 
   ## Description
-  
+  A backend javascript made with mongodb and mongoose to faciltate social post interaction
 
   ## Instillation
   N/A
 
   ## Usage
-  
+  run in insomnia, Users can post thoughts and reactions to said thoughts
 
-  ## Contributing
-  
 
   ## Questions
   - [Kevin-Wenner](github.com/Kevin-Wenner)
   - kevwenner@gmail.com
   - [Social-Connections](github.com/Kevin-Wenner/Social-Connections)
   
-    
-
-  ## Tests
-  
-
   ## License
   This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) license
   
