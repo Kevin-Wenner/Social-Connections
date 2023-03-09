@@ -17,7 +17,7 @@ router.route('/:id')
     .put(updateThought)
     .delete(removeThought);
 // localhost:PORT/thoughts/:id/reactions
-router.route('/:thoughtId/reactionsId')
+router.route('/:thoughtId/reactions')
     .post(newReaction)
     .delete(removeReaction);
 
